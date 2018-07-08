@@ -1,10 +1,10 @@
 FIFA player tracking data from the FIFA World Cup 2018
 
-A repository to aggregate and curate player tracking data available from the 2018 FIFA World Cup https://www.fifa.com/worldcup/
+A repository to aggregate and curate player tracking data available from the 2018 FIFA World Cup https://www.fifa.com/worldcup/ official website.
 
 Two file tpes are saved here: Team and Individual.
 
-File conventions
+File conventions used in this repository:
 
 #Team Data
 
